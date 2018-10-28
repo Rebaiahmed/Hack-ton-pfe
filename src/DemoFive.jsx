@@ -95,7 +95,7 @@ class DemoFive extends React.Component {
 <Navbar>
   <Navbar.Header>
     <Navbar.Brand>
-      <a href="#home">Birexia Hackathon</a>
+      <a href="#home">Berexia Hackathon</a>
     </Navbar.Brand>
     <Navbar.Toggle />
   </Navbar.Header>
